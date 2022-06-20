@@ -16,6 +16,7 @@
     "testFiles": [
         "tests.ts"
     ],
+    "public": true,
     "yotta": {
         "config": {
             "microbit-dal": {
@@ -24,6 +25,5 @@
                 }
             }
         }
-    },
-    "public": true
+    }
 }
